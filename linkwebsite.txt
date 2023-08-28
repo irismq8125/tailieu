@@ -15,6 +15,10 @@ https://codelearn.io/sharing/linq-la-gi-va-no-hoat-dong-nhu-the-nao
 https://viblo.asia/p/linq-trong-c-6J3ZgpgxlmB
 https://www.codelean.vn/2022/07/tu-hoc-c-09-lists-va-linq.html
 
+-----------------------------------------------------------------------
+--Link tài liệu OOP
+-----------------------------------------------------------------------
+https://viblo.asia/p/khac-nhau-giua-abstract-class-va-interface-khi-nao-dung-chung-ORNZq9YrZ0n
 
 -----------------------------------------------------------------------
 --Link demo project GitHub
