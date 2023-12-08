@@ -1,12 +1,17 @@
 -----------------------------------------------------------------------
---Link lenh Git
+--Link phim tac Visual Studio
 -----------------------------------------------------------------------
 https://v1study.com/csharp-c-sharp-mot-so-phim-tat-thuong-dung-trong-visual-studio.html
 
 -----------------------------------------------------------------------
---Link phim tac Visual Studio
+--Link lenh Git
 -----------------------------------------------------------------------
-https://shareprogramming.net/tong-hop-35-lenh-git-co-ban/
+https://shareprogramming.net/tong-hop-35-lenh-git-co-ban
+
+-----------------------------------------------------------------------
+--Link Design Pattern
+-----------------------------------------------------------------------
+https://viblo.asia/p/design-patterns-la-gi-tai-sao-no-lai-la-tro-thu-dac-luc-cua-developers-tong-hop-23-mau-design-pattern-GrLZDBQV5k0
 
 -----------------------------------------------------------------------
 --Link tài liệu LINQ
