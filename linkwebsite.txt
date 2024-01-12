@@ -43,3 +43,8 @@ https://github.com/irismq8125/DemoApi
 -----------------------------------------------------------------------
 https://sqlbolt.com/
 https://www.hackerrank.com/domains/sql
+
+
+https://viblo.asia/p/tim-hieu-ve-mo-hinh-3-lop-3-layer-Qbq5Qmyz5D8
+
+https://viblo.asia/p/repository-pattern-va-unit-of-work-voi-entity-framework-trong-aspnet-mvc-PjxMe6VDG4YL
