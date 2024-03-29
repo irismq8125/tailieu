@@ -25,6 +25,8 @@ https://www.codelean.vn/2022/07/tu-hoc-c-09-lists-va-linq.html
 -----------------------------------------------------------------------
 https://viblo.asia/p/khac-nhau-giua-abstract-class-va-interface-khi-nao-dung-chung-ORNZq9YrZ0n
 
+https://debug.to/3494/abstract-class-vs-partial-class-vs-static-class-vs-sealed-class#google_vignette 
+
 -----------------------------------------------------------------------
 --Link demo project GitHub
 -----------------------------------------------------------------------
